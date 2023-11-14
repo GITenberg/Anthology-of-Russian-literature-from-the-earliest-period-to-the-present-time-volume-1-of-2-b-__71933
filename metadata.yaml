@@ -1,5 +1,8 @@
 _repo: Anthology-of-Russian-literature-from-the-earliest-period-to-the-present-time-volume-1-of-2-b-__71933
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71933-h/images/cover.jpg
 creator:
   author:
     agent_name: Wiener, Leo
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '39208'
     url: http://www.gutenberg.org/2009/agents/39208
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71933#Anthology-of-Russian-literature-from-the-earliest-period-to-the-present-time-volume-1-of-2-b-_
 gutenberg_issued: '2023-10-22'
 identifiers:
   gutenberg: '71933'
